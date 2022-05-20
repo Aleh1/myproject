@@ -4,5 +4,5 @@ a =1
 while a ==1:
     x = datetime.datetime.now()
     print(x)
-    time.sleep(125)
+    time.sleep(500)
 
